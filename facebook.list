@@ -1,4 +1,6 @@
 DOMAIN-KEYWORD,.facebook.
-DOMAIN-SUFFIX,fbcdn.net // facebook/IG
-DOMAIN-SUFFIX,instagram.com // IG
-DOMAIN-SUFFIX,cdninstagram.com // IG
+# facebook/IG
+DOMAIN-SUFFIX,fbcdn.net
+# IG
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
